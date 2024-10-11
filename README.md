@@ -26,20 +26,10 @@
 <p>The ERD diagram provides a visual representation of the relationships between the entities:</p>
 <img src="ERD_Diagram./Oyo_Schema.png" alt="ERD Diagram" />
 
-<h2>How to Use</h2>
-<ol>
-  <li>Clone the repository:</li>
-  <pre><code>git clone https://github.com/yourusername/oyo-product-dissection.git</code></pre>
-  <li>Set up PostgreSQL and import the database schema provided in the repository.</li>
-  <li>Run queries or modify the database as needed.</li>
-</ol>
-
 <h2>Tech Stack</h2>
 <ul>
   <li><strong>PostgreSQL</strong>: For database management and querying.</li>
   <li><strong>Python/SQL</strong>: For data manipulation and analysis.</li>
 </ul>
 
-<h2>Project Documentation</h2>
-<p>For detailed project documentation, check out the link below:</p>
-<p><strong>Project Documentation</strong>: <a href="Insert Documentation Link Here">View Documentation</a></p>
+
